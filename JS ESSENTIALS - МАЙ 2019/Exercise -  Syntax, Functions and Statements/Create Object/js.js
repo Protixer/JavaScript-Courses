@@ -11,6 +11,11 @@ function createObject(){
     car.color = "red";
     car["nitro"] = "yes";
     car.turbo = "on";
+    document.writeln(car.color);
+    document.writeln(car.make);
+    document.writeln(car.model);
+    document.write(car.turbo);
+    document.write(car.nitro);
     
 }
 createObject();
