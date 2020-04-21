@@ -7,5 +7,10 @@ function createObject(){
     
 
     console.log(car.model);
+
+    car.color = "red";
+    car["nitro"] = "yes";
+    car.turbo = "on";
+    
 }
 createObject();
