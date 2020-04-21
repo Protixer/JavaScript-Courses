@@ -15,7 +15,7 @@ function createObject(){
     document.writeln(car.make);
     document.writeln(car.model);
     document.writeln(car.turbo);
-    document.write(car.nitro);
+    document.writeln(car.nitro);
     
 }
 createObject();
