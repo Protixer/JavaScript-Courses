@@ -18,4 +18,4 @@ function operacion(arg1,arg2,arg3){
 
 
 }
-operacion(10,5,'+');
+operacion(10,5,'*');
