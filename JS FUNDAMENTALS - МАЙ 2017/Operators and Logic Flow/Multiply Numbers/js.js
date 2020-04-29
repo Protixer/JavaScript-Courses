@@ -5,4 +5,4 @@ function multyplyNumbers(a,b){
 
     console.log(sum);
 }
-multyplyNumbers(3,2);
+multyplyNumbers(3,3);
