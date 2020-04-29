@@ -6,4 +6,4 @@ function sumNumber(a,b,c){
     
     console.log(parseInt(numbers));
 }
-sumNumber(1.5,1.5,-1.5);
+sumNumber(35,2,-1.5);
